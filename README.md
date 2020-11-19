@@ -3,11 +3,11 @@ whysaurus
 
 Whysaurus
 
-
+***
 
 Note: This is an archive of an early version of Whysaurus. We are looking for developers. If you are interested in contributing on a part- or full-time basis, reach out to us at https://www.whysaurus.com/contact — we'd love to hear from you!
 
-
+***
 
 
 License:
